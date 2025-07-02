@@ -1,4 +1,4 @@
-🥗 Recipe Finder Desktop App
+##  🥗 Recipe Finder Desktop App
 
 A Python-based desktop application that helps users search for recipes by ingredients and visualize their nutritional breakdown using real-time data from the Spoonacular API.
 

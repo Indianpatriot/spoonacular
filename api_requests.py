@@ -1,7 +1,7 @@
 import requests
 from logging_config import logger
 
-API_KEY = "fa456475706b443a99fc843f3077688e"
+API_KEY = "your_api_key"
 BASE_URL = "https://api.spoonacular.com/recipes"
 
 # ✅ Add this function
